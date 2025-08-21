@@ -1,0 +1,2 @@
+F_jsonRequest,nombre,correo,contrasena,admin
+req.json,FulanoSilva,beltran18@test.com.br,123abc,true
